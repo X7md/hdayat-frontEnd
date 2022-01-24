@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.914" height="14.668" viewBox="0 0 15.914 14.668">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M1.733,8.994a.675.675,0,1,1,1.273-.449,5.4,5.4,0,1,0,1.264-5.6L2.379,4.719H4.725a.675.675,0,1,1,0,1.35H.684A.679.679,0,0,1,.59,6.064H.584l-.011,0-.011,0H.557l-.015,0h0Q.508,6.049.477,6.04h0l-.013,0h0l-.007,0A.674.674,0,0,1,0,5.385V1.344a.675.675,0,0,1,1.35,0v2.49L3.331,1.973A6.75,6.75,0,1,1,8.487,13.49q-.2.011-.39.011A6.751,6.751,0,0,1,1.733,8.994Z" transform="translate(0 0)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="reload" transform="translate(-0.5 -1.333)">
+    <g id="Group_173" data-name="Group 173" transform="translate(1 2)">
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M1.733,8.994a.675.675,0,1,1,1.273-.449,5.4,5.4,0,1,0,1.264-5.6L2.379,4.719H4.725a.675.675,0,1,1,0,1.35H.684A.679.679,0,0,1,.59,6.064H.584l-.011,0-.011,0H.557l-.015,0h0Q.508,6.049.477,6.04h0l-.013,0h0l-.007,0A.674.674,0,0,1,0,5.385V1.344a.675.675,0,0,1,1.35,0v2.49L3.331,1.973A6.75,6.75,0,1,1,8.487,13.49q-.2.011-.39.011A6.751,6.751,0,0,1,1.733,8.994Z" transform="translate(0 0)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <g id="Mask_Group_173" data-name="Mask Group 173" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-0.675 -1.35)">
+          <rect id="Rectangle" width="16.201" height="16.201" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

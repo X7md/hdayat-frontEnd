@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame_2_Background_Mask_" data-name="Frame 2 (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ellipsis-v" clip-path="url(#clip-path)">
+    <g id="Group_1689" data-name="Group 1689" transform="translate(9.607 3)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.75" cy="1.75" r="1.75" fill="#2400aa"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="1.75" cy="1.75" r="1.75" transform="translate(0 7)" fill="#2400aa"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="1.75" cy="1.75" r="1.75" transform="translate(0 14)" fill="#2400aa" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

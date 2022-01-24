@@ -1,0 +1,154 @@
+body{
+  direction:ltr;
+  text-align:left
+}
+
+.section-home::before {
+  right: 0;
+  left: auto;
+  transform: scaleX(-1);
+}
+
+.dropdown-menu {
+  text-align: left;
+}
+
+.bootstrap-select .dropdown-toggle .filter-option-inner{
+  padding-left: inherit;
+}
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: left;
+}
+
+.nav_link li a::before{
+  left: 0;
+  right: auto;
+}
+
+.checkmark {
+  left: 0px;
+  right: auto;
+}
+.m-checkbox {
+  padding-left: 30px;
+  padding-right: 0;
+}
+.input-icon .icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 20px;
+  left: auto;
+}
+.input-icon .form-control {
+  padding-right: 50px;
+  padding-left: 1.4rem;
+}
+.social li:not(:last-of-type) {
+  margin-right: 20px;
+  margin-left: 0;
+}
+.nav_link li a i {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.status .status-color {
+  margin-right: 6px;
+  margin-left: 0px;
+}
+
+.btn-back .dslc-icon-ext-arrow-right::before{
+  content: "\e09a";
+}
+
+.widget__item-faq h3::before {
+  left: 30px;
+  right: auto;
+}
+
+.nav-status li:not(:last-of-type) {
+  margin-right: 30px;
+  margin-left: 0;
+}
+
+.bootstrap-select .dropdown-toggle::before {
+  right: 5px;
+  left: auto;
+}
+
+.dropdown-menu .dropdown-item {
+  text-align: left;
+}
+
+.select-phone {
+  left: auto;
+  right: 3px;
+}
+
+.form-group-phone .form-control {
+  padding-right: 105px;
+  direction: rtl;
+}
+@media (max-width: 992px){
+  .menu--mobile .btn-primary, .menu--mobile .btn-primary-2 {
+    text-align: left;
+  }
+}
+
+
+.nav-task li:not(:last-of-type){
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+@media (max-width: 991px){
+  .menu--mobile {
+      right: auto;
+      left: 0;
+      -ms-transform: translateX(100%);
+      -webkit-transform: translateX(100%);
+      transform: translateX(-100%);
+  }
+  .menu-mobile-active {
+      transform: translateX(0);
+      -webkit-transform: translateX(0);
+      -moz-transform: translateX(0);
+      -ms-transform: translateX(0);
+      -o-transform: translateX(0);
+  }
+  .main-header .logo {
+      margin-left: 0;
+      margin-right: auto;
+  }
+  .nav-task li:not(:last-of-type) {
+    margin-right: 5px;
+    margin-left:0px;
+  }
+  .menu--mobile .btn-primary-2, .menu--mobile .btn-outline-primary-white, .menu--mobile .btn_lang{
+    text-align: left;
+  }
+}
+
+.form-wizard .steps li::before {
+  left: 50%;
+  right: auto;
+}
+
+.chat-form .chat-tolpar{
+  right: 10px;
+  left: auto;
+}
+
+.chat-form .chat-tolpar .btn-icon svg {
+  transform: scaleX(-1);
+}
+
+.btn-download {
+  right: 5px;
+  left: auto;
+}
+
+.more-desc-task {
+  left: auto;
+  right: 0;
+}
