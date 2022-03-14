@@ -4,12 +4,12 @@
 
 re-color images:
 
-```
-assets/images/image-home.png
-assets/images/serv/video-editing.png
-assets/images/image-about-1.png
-assets/images/image-about-2.png
-assets/images/bg-home.png
-assets/images/bg-footer.png
-assets/images/svg/arrow-down-2.svg
-```
+
+- https://github.com/X7md/hdayat-frontEnd/blob/main/assets/images/image-home.png
+- https://github.com/X7md/hdayat-frontEnd/blob/main/assets/images/serv/video-editing.png
+- https://github.com/X7md/hdayat-frontEnd/blob/main/assets/images/image-about-1.png
+- https://github.com/X7md/hdayat-frontEnd/blob/main/assets/images/image-about-2.png
+- https://github.com/X7md/hdayat-frontEnd/blob/mainassets/images/bg-home.png
+- https://github.com/X7md/hdayat-frontEnd/blob/mainassets/images/bg-footer.png
+- https://github.com/X7md/hdayat-frontEnd/blob/mainassets/images/svg/arrow-down-2.svg
+
